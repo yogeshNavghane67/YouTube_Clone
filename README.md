@@ -4,6 +4,9 @@ A full-featured YouTube clone web application built using [React](https://reactj
 
 ## Demo
 
+![Screenshot 2023-09-17 010505](https://github.com/yogeshNavghane67/YouTube_Clone/assets/124075039/2f06988d-14d8-4dac-aac0-023a373cfc19)
+
+
 ## Features
 
 - **Video Sections**: Browse videos by categories, including trending, popular, and more.
